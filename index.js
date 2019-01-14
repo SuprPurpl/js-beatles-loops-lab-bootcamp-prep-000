@@ -14,7 +14,7 @@ function johnLennonFacts(primary){
 var result=[];
 let i=0;
 while(i < primary.length ){
-result.push(`${facts[i]}!!!`) 
+result.push(`${primary[i]}!!!`) 
 i++
 	}
 return result;
@@ -22,7 +22,7 @@ return result;
 
 //"I love the beatles" do-while loop
 
-function rep(n){
+function (n){
 var result=[];
 let i=0;
 do{

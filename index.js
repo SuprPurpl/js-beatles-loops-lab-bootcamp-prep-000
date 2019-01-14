@@ -22,7 +22,7 @@ return result;
 
 //"I love the beatles" do-while loop
 
-function (n){
+function iLoveTheBeatles(n){
 var result=[];
 let i=0;
 do{

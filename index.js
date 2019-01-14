@@ -26,7 +26,7 @@ function rep(n){
 var result=[];
 let i=0;
 do{
-result.push('I love ');
+result.push('I love the Beatles!');
 i++
 } while (i<(15-n));
 return result;

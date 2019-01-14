@@ -20,7 +20,14 @@ i++
 return result;
 }
 
-
-
 //"I love the beatles" do-while loop
 
+function rep(n){
+var result=[];
+let i=0;
+do{
+result.push('I love ');
+i++
+} while (i<(15-n));
+return result;
+}

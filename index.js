@@ -10,7 +10,7 @@ return result
 }
 
 //Exclamator while loop
-function johnLennonFacts(primary){
+function johnennonFacts(primary){
 var result=[];
 let i=0;
 while(i < primary.length ){
